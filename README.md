@@ -1,3 +1,5 @@
 # Strapi application
 
-A quick description of your strapi application
+The strapi cms is used to publish recipes.
+
+
